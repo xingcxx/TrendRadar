@@ -73,6 +73,7 @@ sora
 claude
 Anthropic
 
+苹果
 iphone
 ipad
 mac
